@@ -451,7 +451,7 @@
 				<EmbeddedObject>
 					<Id>1585654852331</Id>
 					<Name><![CDATA[delay]]></Name>
-					<X>230</X><Y>190</Y>
+					<X>230</X><Y>185</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
